@@ -1,9 +1,11 @@
 # Sales Forecasting Project
 
 📋 **Project Overview**
+
 This project implements a comprehensive sales forecasting system using multiple machine learning and statistical models. The goal is to predict future sales based on historical data, enabling better inventory management, resource allocation, and business planning.
 
 🎯**Business Problem**
+
 Accurate sales forecasting is crucial for retail businesses to:
 
   1 . Optimize inventory levels and reduce waste
@@ -17,22 +19,31 @@ Accurate sales forecasting is crucial for retail businesses to:
   5 .  Increase profitability through better resource allocation
 
 📊 **Dataset**
+
 The dataset was sourced from kaggle(Rossman store sales) and contains sales information with the following key characteristics:
 
   1 . Time Period: Multiple years of daily sales data
+  
   2 . Scale: Data from 1,115 different stores
+  
   3 . Features: 50+ variables including temporal, promotional, and store-specific attributes
+  
   4 . Split: Pre-divided into training and test sets
 
 **Key Features:**
 
   1 . Temporal: Date, day of week, month, year, holidays
+  
   2 . Store Information: Store type, assortment, competition details
+  
   3 . Promotional: Promo flags, promo periods, promotional intervals
+  
   4 . Customer Behavior: Customer counts, sales patterns
+  
   5 . Engineered Features: Lag variables, rolling statistics, seasonal indicators
 
 🛠️**Technical Approach**
+
 1. Data Preprocessing & Feature Engineering
 
  > DateTime feature extraction (year, month, day of week, etc.)
