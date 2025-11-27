@@ -1,4 +1,4 @@
-# Sales Forecasting Project
+# Rossman Store Sales Forecasting Project
 
 📋 **Project Overview**
 
