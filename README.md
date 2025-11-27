@@ -7,9 +7,13 @@ This project implements a comprehensive sales forecasting system using multiple 
 Accurate sales forecasting is crucial for retail businesses to:
 
   1 . Optimize inventory levels and reduce waste
+  
   2 . Improve supply chain management
+  
   3 . Enhance marketing and promotional planning
+  
   4 .  Make data-driven business decisions
+  
   5 .  Increase profitability through better resource allocation
 
 📊 **Dataset**
