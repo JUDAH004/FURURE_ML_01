@@ -4,7 +4,7 @@
 This project implements a comprehensive sales forecasting system using multiple machine learning and statistical models. The goal is to predict future sales based on historical data, enabling better inventory management, resource allocation, and business planning.
 
 🎯**Business Problem**
-> Accurate sales forecasting is crucial for retail businesses to:
+Accurate sales forecasting is crucial for retail businesses to:
 
   1 . Optimize inventory levels and reduce waste
   2 . Improve supply chain management
